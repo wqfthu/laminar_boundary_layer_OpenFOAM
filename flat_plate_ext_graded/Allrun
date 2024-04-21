@@ -1,0 +1,4 @@
+blockMesh
+icoFoam
+touch flat_plate_ext.foam
+
